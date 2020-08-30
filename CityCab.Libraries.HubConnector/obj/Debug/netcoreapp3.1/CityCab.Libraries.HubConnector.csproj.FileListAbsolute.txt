@@ -1,0 +1,12 @@
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\bin\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.deps.json
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\bin\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\obj\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.csprojAssemblyReference.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\obj\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.AssemblyInfoInputs.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\obj\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.AssemblyInfo.cs
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\bin\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.pdb
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\bin\Debug\netcoreapp3.1\CityCab.Libraries.Dto.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\bin\Debug\netcoreapp3.1\CityCab.Libraries.Dto.pdb
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\obj\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.csproj.CoreCompileInputs.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\obj\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.csproj.CopyComplete
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\obj\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.HubConnector\obj\Debug\netcoreapp3.1\CityCab.Libraries.HubConnector.pdb

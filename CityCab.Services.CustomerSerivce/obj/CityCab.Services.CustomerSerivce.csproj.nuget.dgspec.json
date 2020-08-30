@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Services.CustomerSerivce\\CityCab.Services.CustomerSerivce.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Database\\CityCab.Libraries.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Database\\CityCab.Libraries.Database.csproj",
+        "projectName": "CityCab.Libraries.Database",
+        "projectPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Database\\CityCab.Libraries.Database.csproj",
+        "packagesPath": "C:\\Users\\DJN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Model\\CityCab.Libraries.Model.csproj": {
+                "projectPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Model\\CityCab.Libraries.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Dto\\CityCab.Libraries.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Dto\\CityCab.Libraries.Dto.csproj",
+        "projectName": "CityCab.Libraries.Dto",
+        "projectPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Dto\\CityCab.Libraries.Dto.csproj",
+        "packagesPath": "C:\\Users\\DJN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Model\\CityCab.Libraries.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Model\\CityCab.Libraries.Model.csproj",
+        "projectName": "CityCab.Libraries.Model",
+        "projectPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Model\\CityCab.Libraries.Model.csproj",
+        "packagesPath": "C:\\Users\\DJN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Services.CustomerSerivce\\CityCab.Services.CustomerSerivce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Services.CustomerSerivce\\CityCab.Services.CustomerSerivce.csproj",
+        "projectName": "CityCab.Services.CustomerSerivce",
+        "projectPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Services.CustomerSerivce\\CityCab.Services.CustomerSerivce.csproj",
+        "packagesPath": "C:\\Users\\DJN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Services.CustomerSerivce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Database\\CityCab.Libraries.Database.csproj": {
+                "projectPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Database\\CityCab.Libraries.Database.csproj"
+              },
+              "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Dto\\CityCab.Libraries.Dto.csproj": {
+                "projectPath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.Dto\\CityCab.Libraries.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

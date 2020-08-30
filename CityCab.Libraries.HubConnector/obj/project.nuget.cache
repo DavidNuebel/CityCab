@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "uN5tXnjkiga75v0KX1aQCz7ej/nPchKKpxQYulo0ouWUrMxhlsNNfpviTFa5AZjfFrDo20lNlH+FEYpc9lvBLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DJN\\source\\repos\\CityCab\\CityCab\\CityCab.Libraries.HubConnector\\CityCab.Libraries.HubConnector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.7\\microsoft.aspnetcore.connections.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.7\\microsoft.aspnetcore.http.connections.client.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.7\\microsoft.aspnetcore.http.connections.common.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.7\\microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.7\\microsoft.aspnetcore.signalr.client.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.7\\microsoft.aspnetcore.signalr.client.core.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.7\\microsoft.aspnetcore.signalr.common.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.7\\microsoft.aspnetcore.signalr.protocols.json.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.7\\microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.logging\\3.1.7\\microsoft.extensions.logging.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.options\\3.1.7\\microsoft.extensions.options.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512",
+    "C:\\Users\\DJN\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

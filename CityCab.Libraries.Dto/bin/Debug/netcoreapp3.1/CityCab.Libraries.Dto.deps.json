@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CityCab.Libraries.Dto/1.0.0": {
+        "runtime": {
+          "CityCab.Libraries.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CityCab.Libraries.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\bin\Debug\netstandard2.0\CityCab.Clients.App.deps.json
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\bin\Debug\netstandard2.0\CityCab.Clients.App.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\bin\Debug\netstandard2.0\ref\CityCab.Clients.App.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\bin\Debug\netstandard2.0\CityCab.Clients.App.pdb
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\CityCab.Clients.App.csprojAssemblyReference.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\CityCab.Clients.App.AssemblyInfoInputs.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\CityCab.Clients.App.AssemblyInfo.cs
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\CityCab.Clients.App.csproj.CoreCompileInputs.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\CityCab.Clients.App.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\ref\CityCab.Clients.App.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Clients.App\CityCab.Clients.App\obj\Debug\netstandard2.0\CityCab.Clients.App.pdb

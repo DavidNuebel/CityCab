@@ -1,0 +1,9 @@
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\bin\Debug\netcoreapp3.1\CityCab.Libraries.Dto.deps.json
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\bin\Debug\netcoreapp3.1\CityCab.Libraries.Dto.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\bin\Debug\netcoreapp3.1\CityCab.Libraries.Dto.pdb
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\obj\Debug\netcoreapp3.1\CityCab.Libraries.Dto.csprojAssemblyReference.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\obj\Debug\netcoreapp3.1\CityCab.Libraries.Dto.AssemblyInfoInputs.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\obj\Debug\netcoreapp3.1\CityCab.Libraries.Dto.AssemblyInfo.cs
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\obj\Debug\netcoreapp3.1\CityCab.Libraries.Dto.csproj.CoreCompileInputs.cache
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\obj\Debug\netcoreapp3.1\CityCab.Libraries.Dto.dll
+C:\Users\DJN\source\repos\CityCab\CityCab\CityCab.Libraries.Dto\obj\Debug\netcoreapp3.1\CityCab.Libraries.Dto.pdb
